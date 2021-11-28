@@ -323,6 +323,7 @@ nav {
         font-size: 12px;
     }
     .main-menu a {
+        cursor : pointer;
         display: block;
         padding: 8px;
     }
