@@ -32,6 +32,9 @@ li {
 a {
     text-decoration: none;
 }
+.main-menu li a {
+    cursor : pointer;
+}
 
 /* Header */
 
