@@ -357,6 +357,7 @@ nav {
         margin-bottom: 10px;
     }
     .main-menu {
+        cursor : pointer;
         position: relative;
         top: 15px;
         margin-top: -24%;
